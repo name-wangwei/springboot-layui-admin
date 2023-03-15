@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>cn.geek51</groupId>
-    <artifactId>zrgj-hrm</artifactId>
+    <artifactId>springboot-layui-admin</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>zrgj-hrm</name>
+    <name>springboot-layui-admin</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
